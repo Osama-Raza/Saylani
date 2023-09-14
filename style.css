@@ -1,0 +1,150 @@
+.navbar-nav {
+    display: inline-block;
+    margin-left: 70px;
+}
+.ms-auto {
+    margin-right: 40px;
+    background-color: white;
+}
+.container-fluid-two {
+    height: 40px;
+    margin-left: 60px;
+}
+.btn-primary {
+    margin-top: 70x;
+}
+.fs-2 {
+    font-weight: bold;
+    font-size: 200px !important;
+}
+.green {
+    color: rgb(69, 219, 69);
+}
+.card {
+    padding: 30px;
+    height: 20px;
+    margin-left: 60px;
+    text-align: center;
+    font-weight: bold;
+}
+.one {
+    position: relative;
+}
+.card:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.card-body {
+    height: 4px;
+}
+
+.new {
+    /* background-color: rgba(0, 0, 0, 0.6); */
+    position: absolute;
+    bottom: 5px; 
+    left: 30px;   
+}
+.imgeo:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.imgeto:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.imget:hover {
+transform: scale(1.1);
+cursor: pointer;
+}
+.Saylani {
+    font-size: 20px;
+}
+/* .bgmain {
+    background-color: rgba(49, 49, 209, 0.6);
+    opacity: 0.6;
+} */
+.bg {
+    background-image: url(img/bg.png);
+    background-position: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 350px;
+    position: relative;
+    background-color: rgba(49, 49, 209, 0.6);
+
+}
+.facility {
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    
+}
+.facilitytwo {
+    position: absolute;
+    top: 40px;
+    left: 300px;
+}
+.facilitythree {
+    position: absolute;
+    top: 50px;
+    left: 600px;
+}
+.facilityfour {
+    position: absolute;
+    top: 50px;
+    left: 900px;
+}
+.person {
+    border-radius: 50%;
+    height: 90px;
+    width: 90px;
+}
+.arrow {
+    border-radius: 5px;
+    margin: 10px;
+}
+.bordr {
+    border: 1px solid black;
+    position: relative;
+    
+}
+
+.child {
+    position: absolute;
+    right: 150px;
+    top: 40px; 
+    z-index: 1;
+    opacity: 0.8;
+}
+.bordr:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.bg1 {
+    background-image: url(img/bg2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #0d6db7;
+    
+}
+.mail {
+    width: 350px;
+    background-color: #0d6db7;
+    border: 1px solid white;
+    border-radius: 3px;
+}
+
+.foot {
+    background-image: url(img/bg.png);
+    background-position: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 350px;
+    position: relative;
+    background-color: rgba(33, 33, 36, 0.3);
+
+}
+
+
+
+
